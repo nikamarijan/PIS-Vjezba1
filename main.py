@@ -8,3 +8,4 @@ def nova_funkcija():
     return "Ovo je nova funkcija."
 
     #moj komentar za konflikt
+# ovo je komentar -mia
